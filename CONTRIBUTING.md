@@ -5,7 +5,8 @@ Table of contents:
 2. How can I contribute?
 3. How we structure pull requests and issue reviews
 4. Coding, Commenting, and Committing
-5. Code of Conduct
+5. Contributor License Agreement
+6. Code of Conduct
 
 ## 1. Welcome
 
@@ -117,7 +118,13 @@ of the commit message can be left out.
 If you have forked this project on GitHub then the best way to submit your patches is to
 push your changes back to your GitHub repository and then send a "pull request" via GitHub to the main repository.
 
-## 5. Code of Conduct
+## 5. Contributor License Agreement
+
+The [Contributor License Agreement](./CLA.md) specifies the way how copyright of your contribution is handled. Please include in the comment on your pull request a statement like the following:
+
+> I'd like to contribute `feature X|bugfix Y|docs|something else` to the Tasking Manager Client. I confirm that my contributions to the Tasking Manager Client will be compatible with the the Tasking Manager Client Contributor License Agreement at the time of contribution.
+
+## 6. Code of Conduct
 
 All of HOT's projects fall under the general [HOT Community Code of Conduct](https://www.hotosm.org/hot_code_of_conduct), which is in part based on the well known [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.md).
 
